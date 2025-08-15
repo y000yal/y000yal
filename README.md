@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=y000yal" alt="y000yal" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [yoyallimbu.com](yoyallimbu.com)
+- 👨‍💻 All of my projects are available at [yoyallimbu.com.np](yoyallimbu.com.np)
 
 - 📫 How to reach me **yoyal.limbu@gmail.com**
 
-- 📄 Know about my experiences [yoyallimbu.com](yoyallimbu.com)
+- 📄 Know about my experiences [yoyallimbu.com.np](yoyallimbu.com.np)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
