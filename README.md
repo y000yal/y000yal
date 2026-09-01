@@ -18,7 +18,7 @@
 | Project | What it is |
 | --- | --- |
 | **Captiv** | Chrome extension that captures subtitles from any player (canvas, shadow DOM, cross-frame) and shows them in a picture-in-picture window |
-| **Musica** | <!-- one line about Musica --> |
+| **Captiv Musica** | Chrome extension: floating picture-in-picture mini player for YouTube Music and Spotify, with seek bar, queue, volume and 5 themes |
 | **StatWP** | Dashboard for WordPress.org plugin stats, built with Next.js and Recharts |
 
 Day job: WordPress plugin development, mostly **User Registration** (forms, memberships, payments).
