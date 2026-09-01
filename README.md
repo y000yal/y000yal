@@ -52,14 +52,18 @@ Day job: WordPress plugin development, mostly **User Registration** (forms, memb
 ### GitHub
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=y000yal&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent" alt="Stats" />
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs?username=y000yal&layout=compact&hide_border=true&langs_count=8&theme=transparent" alt="Top languages" />
+  <img width="60%" src="https://streak-stats.demolab.com?user=y000yal&hide_border=true&theme=transparent" alt="Contribution streak" />
 </p>
 
-<p align="center">
-  <img width="60%" src="https://streak-stats.demolab.com?user=y000yal&hide_border=true&theme=transparent" alt="Streak" />
-</p>
+<!--
+  Stats / top-langs / trophy cards removed on purpose:
+  github-readme-stats.vercel.app  -> 503 DEPLOYMENT_PAUSED
+  github-profile-trophy.vercel.app -> 402 DEPLOYMENT_DISABLED (owner out of Vercel quota)
+  Both render as broken images.
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=y000yal&column=7&margin-w=8&no-frame=true&theme=flat" alt="Trophies" />
-</p>
+  To get them back, deploy your own instance (free, ~5 min):
+    https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance
+  Then swap the host in:
+    https://YOUR-APP.vercel.app/api?username=y000yal&show_icons=true&hide_border=true&theme=transparent
+    https://YOUR-APP.vercel.app/api/top-langs?username=y000yal&layout=compact&hide_border=true&theme=transparent
+-->
