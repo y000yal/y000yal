@@ -1,26 +1,65 @@
-<h1 align="center">Hi 👋, I'm Yoyal limbu</h1>
-<h3 align="center">Results-driven and enthusiastic software engineer with a passion for creating innovative solutions. A quick learner with a strong ability to adapt to new technologies and methodologies. Dedicated to delivering high-quality, scalable, and user-centric software solutions while staying up-to-date with industry trends and best practices.</h3>
+<h1 align="center">Hi, I'm Yoyal Limbu</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=y000yal&label=Profile%20views&color=0e75b6&style=flat" alt="y000yal" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=y000yal" alt="y000yal" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [yoyallimbu.com.np](yoyallimbu.com.np)
-
-- 📫 How to reach me **yoyal.limbu@gmail.com**
-
-- 📄 Know about my experiences [yoyallimbu.com.np](yoyallimbu.com.np)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/y0000el" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="y0000el" height="30" width="40" /></a>
+<p align="center">
+  Software engineer. I build WordPress plugins, browser extensions and web apps.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://yoyallimbu.com.np"><img src="https://img.shields.io/badge/Portfolio-yoyallimbu.com.np-0e75b6?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:yoyal.limbu@gmail.com"><img src="https://img.shields.io/badge/Email-yoyal.limbu@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://codepen.io/y0000el"><img src="https://img.shields.io/badge/CodePen-y0000el-000000?style=flat-square&logo=codepen&logoColor=white" alt="CodePen" /></a>
+  <img src="https://komarev.com/ghpvc/?username=y000yal&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=y000yal&show_icons=true&locale=en&layout=compact" alt="y000yal" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=y000yal&show_icons=true&locale=en" alt="y000yal" /></p>
+### What I'm building
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=y000yal&" alt="y000yal" /></p>
+| Project | What it is |
+| --- | --- |
+| **Captiv** | Chrome extension that captures subtitles from any player (canvas, shadow DOM, cross-frame) and shows them in a picture-in-picture window |
+| **Musica** | <!-- one line about Musica --> |
+| **StatWP** | Dashboard for WordPress.org plugin stats, built with Next.js and Recharts |
+
+Day job: WordPress plugin development, mostly **User Registration** (forms, memberships, payments).
+
+### A bit more
+
+- Comfortable across the stack: PHP and Laravel on the back, Vue and React on the front
+- Care a lot about clean escaping, sanitization and coding standards, not just working code
+- Currently digging into Next.js, Chrome extension internals and MV3 service workers
+- Ask me about WordPress plugin architecture, PHP, or Chrome extension APIs
+
+### Stack
+
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+</p>
+
+### GitHub
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=y000yal&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent" alt="Stats" />
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs?username=y000yal&layout=compact&hide_border=true&langs_count=8&theme=transparent" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img width="60%" src="https://streak-stats.demolab.com?user=y000yal&hide_border=true&theme=transparent" alt="Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=y000yal&column=7&margin-w=8&no-frame=true&theme=flat" alt="Trophies" />
+</p>
