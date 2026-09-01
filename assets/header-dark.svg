@@ -14,40 +14,38 @@
           font-family="'JetBrains Mono', 'Cascadia Code', ui-monospace, SFMono-Regular, Consolas, monospace">PHP · LARAVEL · JS/TS · VUE · REACT · NEXT.JS</text>
   </g>
 
-  <g transform="translate(752 62)">
-    <rect x="0" y="0" width="192" height="116" rx="12" fill="none" stroke="#58a6ff" stroke-opacity="0.55" stroke-width="1.5"/>
-    <g fill="#58a6ff" opacity="0.85">
-      <rect x="28" y="34" width="7" height="30" rx="3.5">
-        <animate attributeName="height" values="30;54;18;30" dur="2.4s" repeatCount="indefinite"/>
-        <animate attributeName="y" values="34;22;40;34" dur="2.4s" repeatCount="indefinite"/>
-      </rect>
-      <rect x="46" y="26" width="7" height="46" rx="3.5">
-        <animate attributeName="height" values="46;20;52;46" dur="2.4s" begin="0.3s" repeatCount="indefinite"/>
-        <animate attributeName="y" values="26;39;23;26" dur="2.4s" begin="0.3s" repeatCount="indefinite"/>
-      </rect>
-      <rect x="64" y="38" width="7" height="22" rx="3.5">
-        <animate attributeName="height" values="22;48;30;22" dur="2.4s" begin="0.6s" repeatCount="indefinite"/>
-        <animate attributeName="y" values="38;25;34;38" dur="2.4s" begin="0.6s" repeatCount="indefinite"/>
-      </rect>
-      <rect x="82" y="30" width="7" height="38" rx="3.5">
-        <animate attributeName="height" values="38;16;50;38" dur="2.4s" begin="0.9s" repeatCount="indefinite"/>
-        <animate attributeName="y" values="30;41;24;30" dur="2.4s" begin="0.9s" repeatCount="indefinite"/>
-      </rect>
-      <rect x="100" y="36" width="7" height="26" rx="3.5">
-        <animate attributeName="height" values="26;44;20;26" dur="2.4s" begin="1.2s" repeatCount="indefinite"/>
-        <animate attributeName="y" values="36;27;39;36" dur="2.4s" begin="1.2s" repeatCount="indefinite"/>
-      </rect>
-      <rect x="118" y="32" width="7" height="34" rx="3.5">
-        <animate attributeName="height" values="34;52;22;34" dur="2.4s" begin="1.5s" repeatCount="indefinite"/>
-        <animate attributeName="y" values="32;23;38;32" dur="2.4s" begin="1.5s" repeatCount="indefinite"/>
-      </rect>
+  <g transform="translate(744 56)">
+    <rect x="6" y="18" width="118" height="72" rx="7" fill="none" stroke="#58a6ff" stroke-opacity="0.7" stroke-width="1.6"/>
+    <image x="20" y="28" width="32" height="32" href="data:image/png;base64,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" />
+    <g fill="#7ee787" opacity="0.8">
+      <rect x="62" y="52" width="7" height="8" rx="2"/>
+      <rect x="74" y="45" width="7" height="15" rx="2"/>
+      <rect x="86" y="38" width="7" height="22" rx="2"/>
+      <rect x="98" y="31" width="7" height="29" rx="2"/>
     </g>
-    <rect x="28" y="84" width="96" height="9" rx="4.5" fill="#7ee787" opacity="0.7"/>
-    <rect x="130" y="84" width="9" height="9" rx="2" fill="#7ee787">
+    <rect x="20" y="70" width="58" height="5" rx="2.5" fill="#8b949e" opacity="0.55"/>
+    <rect x="82" y="70" width="6" height="5" rx="1.5" fill="#58a6ff">
       <animate attributeName="opacity" values="1;1;0;0;1" dur="1.1s" repeatCount="indefinite"/>
     </rect>
-    <rect x="152" y="14" width="26" height="18" rx="4" fill="none" stroke="#8b949e" stroke-opacity="0.5"/>
-    <rect x="158" y="19" width="14" height="8" rx="2" fill="#8b949e" opacity="0.5"/>
+    <path d="M0 94 H130 L138 104 H-8 Z" fill="#58a6ff" opacity="0.28"/>
+    <rect x="52" y="96" width="26" height="3" rx="1.5" fill="#58a6ff" opacity="0.55"/>
+
+    <g>
+      <path d="M154 46 h30 v22 a11 11 0 0 1 -11 11 h-8 a11 11 0 0 1 -11 -11 Z" fill="none" stroke="#58a6ff" stroke-opacity="0.85" stroke-width="1.6"/>
+      <path d="M184 52 a11 11 0 0 1 0 16" fill="none" stroke="#58a6ff" stroke-opacity="0.85" stroke-width="1.6"/>
+      <path d="M158 58 h22" stroke="#7ee787" stroke-opacity="0.8" stroke-width="4" stroke-linecap="round"/>
+      <rect x="150" y="84" width="38" height="3.5" rx="1.75" fill="#58a6ff" opacity="0.4"/>
+      <g stroke="#8b949e" stroke-width="2" stroke-linecap="round" fill="none">
+        <path d="M164 36 c-4 -5 4 -9 0 -14" opacity="0.7">
+          <animate attributeName="opacity" values="0;0.7;0" dur="3s" repeatCount="indefinite"/>
+          <animateTransform attributeName="transform" type="translate" values="0 4;0 -6" dur="3s" repeatCount="indefinite"/>
+        </path>
+        <path d="M174 34 c-4 -5 4 -9 0 -13" opacity="0.5">
+          <animate attributeName="opacity" values="0;0.6;0" dur="3s" begin="1.5s" repeatCount="indefinite"/>
+          <animateTransform attributeName="transform" type="translate" values="0 4;0 -6" dur="3s" begin="1.5s" repeatCount="indefinite"/>
+        </path>
+      </g>
+    </g>
   </g>
 
   <rect x="56" y="206" width="888" height="2" rx="1" fill="url(#rule)"/>
