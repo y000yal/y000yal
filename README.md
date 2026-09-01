@@ -1,69 +1,99 @@
-<h1 align="center">Hi, I'm Yoyal Limbu</h1>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg" />
+    <img src="assets/header-light.svg" alt="Yoyal Limbu, software engineer" width="100%" />
+  </picture>
+</div>
 
-<p align="center">
-  Software engineer. I build WordPress plugins, browser extensions and web apps.
-</p>
+<div align="center">
+  <a href="https://yoyallimbu.com.np"><b>Portfolio</b></a>
+  &nbsp;·&nbsp;
+  <a href="mailto:yoyal.limbu@gmail.com"><b>Email</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://codepen.io/y0000el"><b>CodePen</b></a>
+  <br /><br />
+  <img src="https://komarev.com/ghpvc/?username=y000yal&label=views&color=6e7781&style=flat-square" alt="Profile views" />
+</div>
 
-<p align="center">
-  <a href="https://yoyallimbu.com.np"><img src="https://img.shields.io/badge/Portfolio-yoyallimbu.com.np-0e75b6?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:yoyal.limbu@gmail.com"><img src="https://img.shields.io/badge/Email-yoyal.limbu@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://codepen.io/y0000el"><img src="https://img.shields.io/badge/CodePen-y0000el-000000?style=flat-square&logo=codepen&logoColor=white" alt="CodePen" /></a>
-  <img src="https://komarev.com/ghpvc/?username=y000yal&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
-</p>
+<br />
 
----
+I ship things people press buttons on: WordPress plugins used on live sites, Chrome
+extensions that fight real player DOMs, and dashboards that make sense of messy data.
 
-### What I'm building
+<br />
 
-| Project | What it is |
-| --- | --- |
-| **Captiv** | Chrome extension that captures subtitles from any player (canvas, shadow DOM, cross-frame) and shows them in a picture-in-picture window |
-| **Captiv Musica** | Chrome extension: floating picture-in-picture mini player for YouTube Music and Spotify, with seek bar, queue, volume and 5 themes |
-| **StatWP** | Dashboard for WordPress.org plugin stats, built with Next.js and Recharts |
+### Currently building
 
-Day job: WordPress plugin development, mostly **User Registration** (forms, memberships, payments).
+<table>
+<tr>
+<td width="33%" valign="top">
 
-### A bit more
+**Captiv**<br />
+<sub>CHROME EXTENSION</sub>
 
-- Comfortable across the stack: PHP and Laravel on the back, Vue and React on the front
-- Care a lot about clean escaping, sanitization and coding standards, not just working code
-- Currently digging into Next.js, Chrome extension internals and MV3 service workers
-- Ask me about WordPress plugin architecture, PHP, or Chrome extension APIs
+Pulls subtitles out of any player, canvas-rendered, shadow DOM or cross-frame, and floats them in a picture-in-picture window.
+
+</td>
+<td width="33%" valign="top">
+
+**Captiv Musica**<br />
+<sub>CHROME EXTENSION</sub>
+
+Mini player for YouTube Music and Spotify that stays on top of every window. Seek, queue, volume, five themes, `Alt+M`.
+
+</td>
+<td width="33%" valign="top">
+
+**StatWP**<br />
+<sub>WEB APP</sub>
+
+Plugin stats dashboard for WordPress.org data. Next.js and Recharts, live from the .org APIs.
+
+</td>
+</tr>
+</table>
+
+By day: **User Registration**, a WordPress plugin doing forms, memberships and payments.
+
+<br />
 
 ### Stack
 
 <p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,wordpress,mysql,redis,docker,linux&theme=dark&perline=7" alt="Backend" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=js,ts,vue,react,nextjs,tailwind,git&theme=dark&perline=7" alt="Frontend" />
 </p>
 
-### GitHub
+<br />
 
-<p align="center">
-  <img width="60%" src="https://streak-stats.demolab.com?user=y000yal&hide_border=true&theme=transparent" alt="Contribution streak" />
-</p>
+<details>
+<summary><b>How I work</b></summary>
+
+<br />
+
+- **Root cause, not symptom.** One guard in the shared function beats a guard in every caller.
+- **Escaping and sanitization are not optional.** Parameterized queries, escaped output, validated identifiers, every time.
+- **Boring code wins.** Clever is what someone decodes at 3am.
+- **Delete before you add.** The best code is the code never written.
+- Currently poking at MV3 service workers, Document picture-in-picture, and Next.js internals.
+
+Ask me about WordPress plugin architecture, PHP, or Chrome extension APIs.
+
+</details>
+
+<br />
+
+<div align="center">
+  <img width="58%" src="https://streak-stats.demolab.com?user=y000yal&hide_border=true&theme=transparent&card_width=520&date_format=j%20M%5B%20Y%5D" alt="Contribution streak" />
+</div>
 
 <!--
-  Stats / top-langs / trophy cards removed on purpose:
-  github-readme-stats.vercel.app  -> 503 DEPLOYMENT_PAUSED
-  github-profile-trophy.vercel.app -> 402 DEPLOYMENT_DISABLED (owner out of Vercel quota)
-  Both render as broken images.
-
-  To get them back, deploy your own instance (free, ~5 min):
+  No github-readme-stats or trophy cards here on purpose:
+    github-readme-stats.vercel.app   -> 503 DEPLOYMENT_PAUSED
+    github-profile-trophy.vercel.app -> 402 DEPLOYMENT_DISABLED
+    github-readme-activity-graph     -> 402 DEPLOYMENT_DISABLED
+  All three render as broken images on any profile using them.
+  Want the stats card back? Deploy your own free instance and swap the host:
     https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance
-  Then swap the host in:
-    https://YOUR-APP.vercel.app/api?username=y000yal&show_icons=true&hide_border=true&theme=transparent
-    https://YOUR-APP.vercel.app/api/top-langs?username=y000yal&layout=compact&hide_border=true&theme=transparent
 -->
