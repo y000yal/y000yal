@@ -27,6 +27,17 @@ extensions that fight real player DOMs, and dashboards that make sense of messy 
 <table>
 <tr>
 <td width="33%" valign="top">
+<a href="https://statwp.com"><img src="assets/logos/statwp.png" width="46" height="46" alt="StatWP logo" /></a>
+
+**[StatWP](https://statwp.com)**<br />
+<sub>WEB APP</sub>
+
+Plugin stats dashboard for WordPress.org data. Next.js and Recharts, live from the .org APIs.
+
+<a href="https://statwp.com"><img src="https://img.shields.io/badge/statwp.com-visit-1a7f37?style=flat-square&logo=wordpress&logoColor=white" alt="Visit statwp.com" /></a>
+
+</td>
+<td width="33%" valign="top">
 <a href="https://chromewebstore.google.com/detail/nbppdncinpdbokliabfpfmolmdbcaaje"><img src="assets/logos/captiv.png" width="46" height="46" alt="Captiv logo" /></a>
 
 **[Captiv](https://chromewebstore.google.com/detail/nbppdncinpdbokliabfpfmolmdbcaaje)**<br />
@@ -46,17 +57,6 @@ Pulls subtitles out of any player, canvas-rendered, shadow DOM or cross-frame, a
 Mini player for YouTube Music and Spotify that stays on top of every window. Seek, queue, volume, five themes, `Alt+M`.
 
 <a href="https://chromewebstore.google.com/detail/eacohammbjfifeddcllponmcpomjhgfe"><img src="https://img.shields.io/badge/Chrome_Web_Store-install-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Install Captiv Musica from the Chrome Web Store" /></a>
-
-</td>
-<td width="33%" valign="top">
-<a href="https://statwp.com"><img src="assets/logos/statwp.png" width="46" height="46" alt="StatWP logo" /></a>
-
-**[StatWP](https://statwp.com)**<br />
-<sub>WEB APP</sub>
-
-Plugin stats dashboard for WordPress.org data. Next.js and Recharts, live from the .org APIs.
-
-<a href="https://statwp.com"><img src="https://img.shields.io/badge/statwp.com-visit-1a7f37?style=flat-square&logo=wordpress&logoColor=white" alt="Visit statwp.com" /></a>
 
 </td>
 </tr>
