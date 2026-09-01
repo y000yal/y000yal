@@ -8,9 +8,9 @@
 <div align="center">
   <a href="https://yoyallimbu.com.np"><b>Portfolio</b></a>
   &nbsp;·&nbsp;
-  <a href="mailto:yoyal.limbu@gmail.com"><b>Email</b></a>
+  <a href="https://yoyallimbu.com.np/blog"><b>Writing</b></a>
   &nbsp;·&nbsp;
-  <a href="https://codepen.io/y0000el"><b>CodePen</b></a>
+  <a href="mailto:yoyal.limbu@gmail.com"><b>Email</b></a>
   <br /><br />
   <img src="https://komarev.com/ghpvc/?username=y000yal&label=views&color=6e7781&style=flat-square" alt="Profile views" />
 </div>
