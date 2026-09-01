@@ -1,7 +1,7 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg" />
-    <img src="assets/header-light.svg" alt="Yoyal Limbu, software engineer" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg?v=2" />
+    <img src="assets/header-light.svg?v=2" alt="Yoyal Limbu, software engineer" width="100%" />
   </picture>
 </div>
 
